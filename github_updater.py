@@ -3,7 +3,7 @@
 """
 Created on Thu Sep  7 18:05:05 2023
 
-@author: root
+@author: WhiteyCookie
 """
 
 import os
