@@ -23,7 +23,7 @@ generating requirements.txt files, and pulling the latest changes from GitHub.
 
 # Usage
 
-  Set the base_path = '' variable in the script to the directory containing your GitHub repositories.
+  Set the base_path = '.' variable in the script to the directory containing your GitHub repositories.
   
   Run the script using the command: 
   
